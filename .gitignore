@@ -27,6 +27,10 @@ Thumbs.db
 .coverage
 htmlcov/
 
+# Data / Datasets
+ISL_Dataset/
+*.csv
+
 # Notebook / ML outputs
 *.log
 *.tmp
@@ -39,3 +43,6 @@ htmlcov/
 *.sav
 runs/
 logs/
+
+# Misc
+.output.txt
