@@ -1,2 +1,2 @@
 ## Dataset using Here 
-https://www.kaggle.com/datasets/soumyakushwaha/indian-sign-language-dataset?resource=download
+https://www.kaggle.com/datasets/vrajesh0sharma7/sign-language?resource=download
